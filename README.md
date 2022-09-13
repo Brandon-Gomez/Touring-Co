@@ -1,2 +1,2 @@
 # Touring-Co
-Una landing page como primer proyecto como estudiante
+Primer proyecto como estudiante: Una landing page de sitios turisticos de Colombia
