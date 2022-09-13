@@ -1,2 +1,2 @@
 # Touring-Co
-Una ladding page como primer proyecto como estudiante
+Una landing page como primer proyecto como estudiante
